@@ -11,7 +11,7 @@ body {
     text-align: center;
 }
 .nav {
-    background-color: #ddd;
+    background-color: #dde;
     overflow: hidden;
 }
 .nav a {
@@ -23,14 +23,14 @@ body {
     text-decoration: none;
 }
 .nav a:hover {
-    background-color: #ddd;
+    background-color: #dde;
     color: black;
 }
 .main {
     margin: 15px;
 }
 .footer {
-    background-color: #333;
+    background-color: #334;
     color: #fff;
     text-align: center;
     padding: 10px;
